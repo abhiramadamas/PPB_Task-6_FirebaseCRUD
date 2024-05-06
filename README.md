@@ -1,16 +1,7 @@
 # firebase_project
 
-A new Flutter project.
+A mobile app for task management using Firebase and Flutter. This project is designed to fulfill a task requirement for Mobile Application Programming Class
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - Name: Muhammad Damas Abhirama
+ - NRP: 5025201271
+ - Class: Pemrograman Perangkat Bergerak D
